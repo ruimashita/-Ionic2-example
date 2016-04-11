@@ -57,6 +57,7 @@ ionic emulate android
 cd ../
 ionic start MyIonic2Project tutorial --v2
 cd MyIonic2Project/
+ionic serve
 ```
 
 
